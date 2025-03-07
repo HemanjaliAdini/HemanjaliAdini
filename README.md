@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hemanjali Adini!
 
-🎯 **Data Scientist | Data Analyst | NLP & Machine Learning Specialist**  
+🎯 **Data Scientist | Data Analyst | Data Engineer | NLP & Machine Learning Specialist**  
 🚀 Passionate about leveraging data to build impactful solutions and unlock insights.
 
 ---
